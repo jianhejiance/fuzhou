@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.content .header { padding-top:30px; padding-bottom: 15px;}
+/*顶部导航居右 */
+#header {background:#c39773;}
+#indexPage #mslider ul li p { color: #fff; }
+.content .header p.title { color: #333;line-height:1.8em;}
+.content .header p.titles { color: #fff;line-height:1.8em;font-size: 1.6rem;}
+.content .header p.subtitle { color: #656565; text-transform: uppercase; }
+#indexPage a.more { color:#fff; border-color: #2898DB; background-color: #474747; border-radius: 0px; width: 60%; }
+#footer { background: #171717; }
+#indexPage #mslider { height: 180px; }
+#indexPage #mslider ul li { height: 180px; }
+#indexPage #mslider ul li p.title { font-size: 2rem; margin-top: 100px;}
+#indexPage #mslider ul li p.subtitle {color: #fff;}
+#indexPage a.more:hover { border: #262626 1px solid; background: #262626; }
+
